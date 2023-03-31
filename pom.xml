@@ -17,16 +17,11 @@
         <java.version>17</java.version>
     </properties>
     <dependencies>
-        <!-- https://mvnrepository.com/artifact/org.mule.weave/core -->
         <dependency>
             <groupId>org.mule.weave</groupId>
             <artifactId>core</artifactId>
             <version>2.6.0-20230123</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.mule.weave/wlang -->
-
-
-        <!-- https://mvnrepository.com/artifact/org.mule.weave/yaml-module -->
         <dependency>
             <groupId>org.mule.weave</groupId>
             <artifactId>core-modules</artifactId>
